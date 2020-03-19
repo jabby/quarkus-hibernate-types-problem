@@ -1,0 +1,1 @@
+INSERT INTO error values (1, '{"key1": "value1"}'::jsonb);
